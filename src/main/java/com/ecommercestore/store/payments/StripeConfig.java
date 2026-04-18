@@ -1,4 +1,4 @@
-package com.ecommercestore.store.config;
+package com.ecommercestore.store.payments;
 
 import com.stripe.Stripe;
 import jakarta.annotation.PostConstruct;

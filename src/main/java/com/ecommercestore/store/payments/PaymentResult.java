@@ -1,4 +1,4 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.payments;
 
 import com.ecommercestore.store.entities.PaymentStatus;
 import lombok.AllArgsConstructor;

@@ -1,9 +1,8 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.payments;
 
 import com.ecommercestore.store.entities.Order;
 import com.ecommercestore.store.entities.OrderItem;
 import com.ecommercestore.store.entities.PaymentStatus;
-import com.ecommercestore.store.exceptions.PaymentException;
 import com.stripe.exception.SignatureVerificationException;
 import com.stripe.exception.StripeException;
 import com.stripe.model.Event;
