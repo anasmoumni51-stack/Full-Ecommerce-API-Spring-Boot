@@ -1,6 +1,5 @@
-package com.ecommercestore.store.repositories;
+package com.ecommercestore.store.products;
 
-import com.ecommercestore.store.entities.Category;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CategoryRepository extends CrudRepository<Category, Byte> {

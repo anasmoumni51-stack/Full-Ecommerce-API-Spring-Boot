@@ -1,7 +1,5 @@
-package com.ecommercestore.store.mappers;
+package com.ecommercestore.store.products;
 
-import com.ecommercestore.store.dtos.ProductDto;
-import com.ecommercestore.store.entities.Product;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;

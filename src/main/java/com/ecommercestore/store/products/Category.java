@@ -1,4 +1,4 @@
-package com.ecommercestore.store.entities;
+package com.ecommercestore.store.products;
 
 import jakarta.persistence.*;
 import lombok.Getter;

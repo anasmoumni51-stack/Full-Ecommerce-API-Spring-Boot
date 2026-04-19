@@ -1,10 +1,5 @@
-package com.ecommercestore.store.controllers;
+package com.ecommercestore.store.products;
 
-import com.ecommercestore.store.dtos.ProductDto;
-import com.ecommercestore.store.entities.Product;
-import com.ecommercestore.store.mappers.ProductMapper;
-import com.ecommercestore.store.repositories.CategoryRepository;
-import com.ecommercestore.store.repositories.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
