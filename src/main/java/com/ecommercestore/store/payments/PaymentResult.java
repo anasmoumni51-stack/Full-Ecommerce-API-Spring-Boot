@@ -1,6 +1,6 @@
 package com.ecommercestore.store.payments;
 
-import com.ecommercestore.store.entities.PaymentStatus;
+import com.ecommercestore.store.orders.PaymentStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

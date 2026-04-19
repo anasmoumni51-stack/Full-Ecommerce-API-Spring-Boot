@@ -1,10 +1,10 @@
 package com.ecommercestore.store.payments;
 
-import com.ecommercestore.store.entities.Order;
+import com.ecommercestore.store.orders.Order;
 import com.ecommercestore.store.carts.CartEmptyException;
 import com.ecommercestore.store.carts.CartNotFoundException;
 import com.ecommercestore.store.carts.CartRepository;
-import com.ecommercestore.store.repositories.OrderRepository;
+import com.ecommercestore.store.orders.OrderRepository;
 import com.ecommercestore.store.auth.AuthService;
 import com.ecommercestore.store.carts.CartService;
 import lombok.RequiredArgsConstructor;

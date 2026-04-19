@@ -3,7 +3,7 @@ package com.ecommercestore.store.payments;
 import com.ecommercestore.store.dtos.ErrorDto;
 import com.ecommercestore.store.carts.CartEmptyException;
 import com.ecommercestore.store.carts.CartNotFoundException;
-import com.ecommercestore.store.repositories.OrderRepository;
+import com.ecommercestore.store.orders.OrderRepository;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

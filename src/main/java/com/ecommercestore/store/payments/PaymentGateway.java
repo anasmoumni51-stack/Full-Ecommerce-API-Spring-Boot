@@ -1,6 +1,6 @@
 package com.ecommercestore.store.payments;
 
-import com.ecommercestore.store.entities.Order;
+import com.ecommercestore.store.orders.Order;
 
 import java.util.Optional;
 

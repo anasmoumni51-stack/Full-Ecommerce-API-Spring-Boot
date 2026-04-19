@@ -1,10 +1,6 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.orders;
 
 import com.ecommercestore.store.auth.AuthService;
-import com.ecommercestore.store.dtos.OrderDto;
-import com.ecommercestore.store.exceptions.OrderNotFoundException;
-import com.ecommercestore.store.mappers.OrderMapper;
-import com.ecommercestore.store.repositories.OrderRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.stereotype.Service;
