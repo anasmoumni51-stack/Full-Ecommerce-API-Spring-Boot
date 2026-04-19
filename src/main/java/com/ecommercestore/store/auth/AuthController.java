@@ -1,12 +1,8 @@
-package com.ecommercestore.store.controllers;
+package com.ecommercestore.store.auth;
 
-import com.ecommercestore.store.config.JwtConfig;
-import com.ecommercestore.store.dtos.JwtResponse;
-import com.ecommercestore.store.dtos.LoginRequest;
 import com.ecommercestore.store.users.UserDto;
 import com.ecommercestore.store.users.UserMapper;
 import com.ecommercestore.store.users.UserRepository;
-import com.ecommercestore.store.services.JwtService;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.validation.Valid;

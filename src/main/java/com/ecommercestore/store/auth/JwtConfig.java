@@ -1,4 +1,4 @@
-package com.ecommercestore.store.config;
+package com.ecommercestore.store.auth;
 
 import io.jsonwebtoken.security.Keys;
 import lombok.Data;

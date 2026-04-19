@@ -1,4 +1,4 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.auth;
 
 import com.ecommercestore.store.users.User;
 import com.ecommercestore.store.users.UserRepository;

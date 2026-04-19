@@ -1,5 +1,6 @@
 package com.ecommercestore.store.services;
 
+import com.ecommercestore.store.auth.AuthService;
 import com.ecommercestore.store.dtos.OrderDto;
 import com.ecommercestore.store.exceptions.OrderNotFoundException;
 import com.ecommercestore.store.mappers.OrderMapper;

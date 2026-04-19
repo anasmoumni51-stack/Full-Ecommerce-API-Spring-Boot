@@ -1,6 +1,5 @@
-package com.ecommercestore.store.filters;
+package com.ecommercestore.store.auth;
 
-import com.ecommercestore.store.services.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

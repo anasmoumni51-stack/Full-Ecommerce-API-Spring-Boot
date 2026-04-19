@@ -1,7 +1,6 @@
-package com.ecommercestore.store.config;
+package com.ecommercestore.store.auth;
 
 import com.ecommercestore.store.users.Role;
-import com.ecommercestore.store.filters.JwtAuthenticationFilter;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
