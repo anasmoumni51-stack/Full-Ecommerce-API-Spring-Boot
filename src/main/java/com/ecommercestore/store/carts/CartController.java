@@ -1,12 +1,6 @@
-package com.ecommercestore.store.controllers;
+package com.ecommercestore.store.carts;
 
-import com.ecommercestore.store.dtos.AddItemToCartRequest;
-import com.ecommercestore.store.dtos.CartDto;
-import com.ecommercestore.store.dtos.CartItemDto;
-import com.ecommercestore.store.dtos.UpdateCartItemRequest;
-import com.ecommercestore.store.exceptions.CartNotFoundException;
 import com.ecommercestore.store.products.ProductNotFoundException;
-import com.ecommercestore.store.services.CartService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.tags.Tag;

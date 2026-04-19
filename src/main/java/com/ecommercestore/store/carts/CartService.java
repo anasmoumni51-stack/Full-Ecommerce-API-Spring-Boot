@@ -1,12 +1,6 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.carts;
 
-import com.ecommercestore.store.dtos.CartDto;
-import com.ecommercestore.store.dtos.CartItemDto;
-import com.ecommercestore.store.entities.Cart;
-import com.ecommercestore.store.exceptions.CartNotFoundException;
 import com.ecommercestore.store.products.ProductNotFoundException;
-import com.ecommercestore.store.mappers.CartMapper;
-import com.ecommercestore.store.repositories.CartRepository;
 import com.ecommercestore.store.products.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
