@@ -1,4 +1,4 @@
-package com.ecommercestore.store.filters;
+package com.ecommercestore.store.common;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

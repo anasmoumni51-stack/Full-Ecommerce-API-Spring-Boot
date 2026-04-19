@@ -1,6 +1,5 @@
-package com.ecommercestore.store.controllers;
+package com.ecommercestore.store.common;
 
-import com.ecommercestore.store.dtos.ErrorDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.web.bind.MethodArgumentNotValidException;

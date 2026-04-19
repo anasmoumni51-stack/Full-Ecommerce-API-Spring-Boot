@@ -1,4 +1,4 @@
-package com.ecommercestore.store.controllers;
+package com.ecommercestore.store.common;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

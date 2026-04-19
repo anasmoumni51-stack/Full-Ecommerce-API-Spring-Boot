@@ -1,6 +1,6 @@
 package com.ecommercestore.store.payments;
 
-import com.ecommercestore.store.dtos.ErrorDto;
+import com.ecommercestore.store.common.ErrorDto;
 import com.ecommercestore.store.carts.CartEmptyException;
 import com.ecommercestore.store.carts.CartNotFoundException;
 import com.ecommercestore.store.orders.OrderRepository;
