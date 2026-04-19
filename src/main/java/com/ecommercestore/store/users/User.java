@@ -1,5 +1,6 @@
-package com.ecommercestore.store.entities;
+package com.ecommercestore.store.users;
 
+import com.ecommercestore.store.entities.Product;
 import jakarta.persistence.*;
 import lombok.*;
 

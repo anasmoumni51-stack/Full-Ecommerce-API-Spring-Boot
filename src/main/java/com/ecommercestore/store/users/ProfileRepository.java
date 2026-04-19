@@ -1,6 +1,5 @@
-package com.ecommercestore.store.repositories;
+package com.ecommercestore.store.users;
 
-import com.ecommercestore.store.entities.Profile;
 import org.springframework.data.repository.CrudRepository;
 
 public interface ProfileRepository extends CrudRepository<Profile, Long> {

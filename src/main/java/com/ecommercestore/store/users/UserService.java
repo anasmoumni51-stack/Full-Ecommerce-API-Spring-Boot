@@ -1,6 +1,5 @@
-package com.ecommercestore.store.services;
+package com.ecommercestore.store.users;
 
-import com.ecommercestore.store.repositories.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

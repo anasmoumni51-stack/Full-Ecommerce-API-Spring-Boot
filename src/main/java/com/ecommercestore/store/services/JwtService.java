@@ -1,7 +1,7 @@
 package com.ecommercestore.store.services;
 
 import com.ecommercestore.store.config.JwtConfig;
-import com.ecommercestore.store.entities.User;
+import com.ecommercestore.store.users.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;

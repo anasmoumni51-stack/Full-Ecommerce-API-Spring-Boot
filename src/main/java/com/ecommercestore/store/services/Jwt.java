@@ -1,6 +1,6 @@
 package com.ecommercestore.store.services;
 
-import com.ecommercestore.store.entities.Role;
+import com.ecommercestore.store.users.Role;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 

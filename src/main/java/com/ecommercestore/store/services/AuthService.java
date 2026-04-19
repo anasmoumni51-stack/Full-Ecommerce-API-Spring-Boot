@@ -1,7 +1,7 @@
 package com.ecommercestore.store.services;
 
-import com.ecommercestore.store.entities.User;
-import com.ecommercestore.store.repositories.UserRepository;
+import com.ecommercestore.store.users.User;
+import com.ecommercestore.store.users.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
